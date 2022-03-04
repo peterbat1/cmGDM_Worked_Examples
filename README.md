@@ -18,14 +18,10 @@ For those unfamiliar with the GitHub repository system, please click on the gree
 
 Thanks,
 
-Peter D. Wilson
-
-Adjunct Fellow
-
-School of Natural Sciences
-
-Faculty of Science and Engineering
-
+Peter D. Wilson  
+Adjunct Fellow  
+School of Natural Sciences  
+Faculty of Science and Engineering  
 Macquarie University, North Ryde NSW 2109
 
 email: peterdonaldwilson@gmail.com    or    peter.wilson@mq.edu.au
