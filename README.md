@@ -4,7 +4,7 @@ This repository provides R-scripts and data sets for worked examples using the R
 
 _cmGDM_ has been developed as the first example of modelling tools to be included in the new Community Modelling module of EcoCommons.
 
-Included within this repository is a PDF giving guidance on working throught the examples include in this bundle.
+Included within this repository is a PDF giving guidance on working through the examples include in this bundle.
 
 Please note that these data and scripts are meant for testing and evaluation purposes at the present time. **This resource is not designed for general circulation at the moment and is being made available to the Community Modelling Avisory Group and other selected experts for review and comment.**
 
@@ -12,9 +12,9 @@ In the near future, this material may form part of comprehensive support materia
 
 ## Suggested use
 
-I recommend downloading this repository as a ZIP archive and placing the expoanded material into a convenient folder on your computer.
+I recommend downloading this repository as a ZIP archive and placing the expanded material into a convenient folder on your computer.
 
-For those unfamiliar with the GitHub repository system, please click on the green **Code** button at the top right of the main page. In the pull-down dialog, select "Download ZIP". After downloading, you can use the tools of your operating system to movinig the zip-file to an appropriate location and unpack it.
+For those unfamiliar with the GitHub repository system, please click on the green **Code** button at the top right of the main page. In the pull-down dialog, select "Download ZIP". After downloading, you can use the tools of your operating system to moving the zip-file to an appropriate location and unpack it.
 
 Thanks,
 
